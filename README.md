@@ -1,4 +1,4 @@
-# DarkFlame
+# DarkFlame - white theme
 
 Visual Studio 2026 C++ solution containing `DarkFlame.exe` and two x86 DLLs:
 
